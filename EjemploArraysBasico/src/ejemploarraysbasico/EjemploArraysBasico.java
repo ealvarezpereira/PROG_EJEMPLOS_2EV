@@ -45,12 +45,11 @@ public class EjemploArraysBasico {
         }
 
         Temperatura objTem = new Temperatura();
-
+        
         //objTem.mostrarArray(temperaturas);
         //objTem.mostrarTemperatura(temperaturas);
         //objTem.buscarElemento(temperaturas);
 
-        
         objTem.ordenar(temperaturas);
         Arrays.sort(temperaturas);
         objTem.mostrarArray(temperaturas);

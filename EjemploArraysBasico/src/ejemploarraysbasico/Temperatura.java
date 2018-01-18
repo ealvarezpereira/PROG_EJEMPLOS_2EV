@@ -67,8 +67,9 @@ public class Temperatura {
                     tem[j] = aux;
                 }
             }
+            
         }
 
     }
 
-}
+} 
